@@ -14,17 +14,17 @@ There are three categories of big data. They are:
 
 ## The 6 V's of BIGDATA
 
-1. Volume: A large amount of data is called volume. The volume of the data is a very important factor in determining its value. The term "Big Data" is really used to explain the data that is extremely huge in volume. This means that the amount of data will determine whether or not a given set of data may be called big data.
+1.Volume: A large amount of data is called volume. The volume of the data is a very important factor in determining its value. The term "Big Data" is really used to explain the data that is extremely huge in volume. This means that the amount of data will determine whether or not a given set of data may be called big data.
 
-2. Velocity: Velocity describes the high rate of data collection. Data comes from a wide range of sources, including machines, networks, social media, mobile phones, etc., in big data velocity. A significant and constant flow of data is generated. The speed at which data is generated and processed to satisfy demands determines the data's potential. For instance, Google receives more than 3.5 billion queries per day. Additionally, the number of Facebook users is rising by approximately 22% yearly.
+2.Velocity: Velocity describes the high rate of data collection. Data comes from a wide range of sources, including machines, networks, social media, mobile phones, etc., in big data velocity. A significant and constant flow of data is generated. The speed at which data is generated and processed to satisfy demands determines the data's potential. For instance, Google receives more than 3.5 billion queries per day. Additionally, the number of Facebook users is rising by approximately 22% yearly.
 
-3. Variety: It refers to the type of data and the various sources of data. The emergence of data from fresh sources, both inside and outside of a company, is essentially what is meant by variety. It can be organized, partially organized, or unorganized.
+3.Variety: It refers to the type of data and the various sources of data. The emergence of data from fresh sources, both inside and outside of a company, is essentially what is meant by variety. It can be organized, partially organized, or unorganized.
 
-4. Veracity: It relates to data redundancy and ambiguity; that is, easily available data can occasionally become disorganized, and quality and accuracy are challenging to manage. As an instance, additional data could cause confusion, whereas less information could only convey partial or incorrect information.
+4.Veracity: It relates to data redundancy and ambiguity; that is, easily available data can occasionally become disorganized, and quality and accuracy are challenging to manage. As an instance, additional data could cause confusion, whereas less information could only convey partial or incorrect information.
 
-5. Value: The bulk of information that has no value is useless to the firm until it can be made valuable. Data by itself is useless and unimportant; information must be extracted from it by transforming it into something worthwhile. Therefore, we might say that value is the most significant of the six V's.
+5.Value: The bulk of information that has no value is useless to the firm until it can be made valuable. Data by itself is useless and unimportant; information must be extracted from it by transforming it into something worthwhile. Therefore, we might say that value is the most significant of the six V's.
 
-6. Variability: Data that is constantly changing is referred to as variability. Understanding and correctly interpreting the significance of raw data are the main areas of variation.
+6.Variability: Data that is constantly changing is referred to as variability. Understanding and correctly interpreting the significance of raw data are the main areas of variation.
 
 # Challenges in Big data Analytics
 
