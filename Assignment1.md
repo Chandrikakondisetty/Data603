@@ -1,4 +1,4 @@
-# Big data with examples and files
+# Big data with examples and types
 
 Big Data is a collection of data that is extremely large and keeps expanding exponentially over time. Social media is one of the best examples of big data. According to the estimate, Facebook's databases get more than 500 terabytes of new data each day. This information is primarily produced by the uploading of images and videos, messaging, leaving comments, etc.
 
