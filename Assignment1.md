@@ -26,8 +26,28 @@ There are three categories of big data. They are:
 
 6. Variability: Data that is constantly changing is referred to as variability. Understanding and correctly interpreting the significance of raw data are the main areas of variation.
 
-## Phases of Big data Analytics
+# Phases of Big data Analytics
 
 1. Sharing and Accessing data: Accessing data from open sources causes many problems. If data from the company's information system is used to make fast, accurate decisions, then the data should be available in an accurate, full, and timely manner.
 
-2. Security: Security breaches
+## Security
+
+Security breaches are more likely when there is more data and when such data is less organized. The likelihood for security breakdowns increases as your organization expands, you add more tools to your software stack, and you implement new technologies to make sense of your data.
+
+## Potential Risk Factors
+
+- Fake data generation: You might be collecting false (and so invalid and perhaps damaging) data if you're randomly collecting information from various sources. Any analysis you draw from false or inaccurate data will be tainted.
+- Unprotected data resources: Gathering data from unprotected channels that aren't secure makes your systems more vulnerable to external attacks.
+
+## Data Silos
+
+A significant issue that might arise when working with big data is data silos. You have data silos if all of your data is kept in different databases that don't exchange information with one another. This means that your teams aren't all examining the same data, but rather, they each have access to a portion of it that is incomplete. Poor execution can result if your teams can only see a piece of the data; this could cause a lack of alignment between your marketing and sales teams or incorrect interpretation of a customer's wants by your customer care department.
+
+## Scalability
+
+Big data projects can expand and change quickly, creating difficulties such as how to manage and carry out numerous tasks so that each workload's objectives can be met affordably.
+
+## Integration of Data from Different Sources
+
+Data is obtained from many different sources in a business, including social media pages, ERP software, customer logs, financial data, emails, presentations, and reports written by staff. Integrating all of this data to create reports is a difficult undertaking that companies often neglect. However, perfect data integration is required for analysis, reporting, and business intelligence.
+
