@@ -26,7 +26,7 @@ There are three categories of big data. They are:
 
 6. Variability: Data that is constantly changing is referred to as variability. Understanding and correctly interpreting the significance of raw data are the main areas of variation.
 
-# Phases of Big data Analytics
+# Challenges in Big data Analytics
 
 ## Sharing and Accessing data
 
