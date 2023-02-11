@@ -28,7 +28,9 @@ There are three categories of big data. They are:
 
 # Phases of Big data Analytics
 
-1. Sharing and Accessing data: Accessing data from open sources causes many problems. If data from the company's information system is used to make fast, accurate decisions, then the data should be available in an accurate, full, and timely manner.
+## Sharing and Accessing data
+
+Accessing data from open sources causes many problems. If data from the company's information system is used to make fast, accurate decisions, then the data should be available in an accurate, full, and timely manner.
 
 ## Security
 
