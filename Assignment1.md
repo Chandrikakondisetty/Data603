@@ -1,55 +1,52 @@
-# Big data with examples and types
+# Big data with examples and files.
+Big Data is a collection of data that is extremely large which increases over time.
+Social media is one of the best example of big data . Facebook posts and Instagram posts, blogs, comments ,transactions data from banks, all come under bigdata.
+Types of Big data:
+There are three categories of big data. They are 
+1.Structured:
+The data which can be accessed in a specific format like tables is called as “structured data”. It is very easy to store, process and analyze and it is in readable format.
+Example: The data we generally store in the form of tables by sql queries is one of the best example of structured data as we can read and write the tables easily.
+2.Semi structured:
+Semi structured is the combination of both structured and un structures data. Semi-structured data is stored in text-based formats like XML, JSON, and CSV,
+3.Unstrcutured:
+Unstructured data is defined as any data with an uneven shape or structure. It is very difficult to extract data from unstructured data. There are various kind of unstructured data such as images, videos, audio files, text documents.
+Source: Slides
+#6 V’s of BIGDATA:
+Volume:
+Volume refers to the large amount of data produced by companies, hospitals, stock markets  and others .The volume of the data is a very important factor in determining its value. This means that the “volume” of data will determine whether a given set of data is a big data or not.
+Velocity:
+Velocity describes the speed in which data will be generated and used from various resources .For instance Thousands of people will post ,like and share information in Social media in just one second.
+Variety:
+It refers of the different forms of data that exist( structured, semi structured, partially structured) and different types like audio, video, text, image  It also refers to various sources that data has been collected from like banks, organizations, hospitals..
+Veracity:
+This refers to the quality and accuracy of the data, and the challenges associated with extracting clean data from noise data
+Variability:
+This tells how fast a data format can be changed from one to another and how the data will be managed in unpredictable data formats.
+Value:
+Value refers to usefulness of data . Converting raw data to something valuable is defined as its “Value”. The vast amount of data without any value is useless to the company unless it is transformed into something beneficial.
+Source : slides and https://www.geeksforgeeks.org/5-vs-of-big-data/
+#Phases of Big data Analytics:
+There are 5 phases in big data analysis:
+## Data acquisition and recording: Firstly, we have to identify the source of data.Once the source of the data has been identified, the data should be gathered from the sources.Since the data  we collected is unstructured, it needs to be filtered to eliminate corrupted or irrelevant data. After the filtering process, a duplicate of the data is stored for future purposes.
+## Information extraction and cleaning : During the process of data filtering, some data entries may be incompatible. In this phase, the data entries that do not fit  with the underlying scope of analysis are extracted and transformed. Data cleaning involves filling in missing values and correcting data inconsistencies.
+##Data integration, aggregation and representation: Data integration and aggregation simply involves combining data from several data stores in order to  avoid duplications and inconsistencies  Representation means visualizing   the data in many ways  , including bar charts, histograms, boxplots, and pie charts.
+##Query processing, Data modelling and Analysis: A data model is a conceptual representation that arranges data objects and defines their. Meaningful information is obtained through queries. However, analyzing data that are not stored in SQL databases can be difficult through SQL queries, which presents a challenge in performing different analysis tasks
+##Interpretation: Interpretation is the final phase in the big data analytics process. This phase involves verifying results produced by the data analysis and verifying their accuracy.
+Source:slides and https://www.geeksforgeeks.org/big-data-analytics-life-cycle/
 
-Big Data is a collection of data that is extremely large and keeps expanding exponentially over time. Social media is one of the best examples of big data. According to the estimate, Facebook's databases get more than 500 terabytes of new data each day. This information is primarily produced by the uploading of images and videos, messaging, leaving comments, etc.
+#Challenges in  Big data Analytics:
+Accessing data and Heterogeneity:
+As we have heterogenous data i.e data which is different in format, structure and meaning. This data will result in missing data ,faulty errors and which inturn decrease the data quality , lead to incorrect  conclusions and poor decision making.
+Security:
+Security problems are more  when there is more data. When such data is less organized, the issue is made worse. Big data analytics involves the storage and processing of vast amounts of data, including sensitive information such as personal data and financial information. Security challenges can arise due to various factors, such as weak authentication and access control mechanisms, as well as cyber attacks. These security issues can lead to the loss of confidential information and have significant negative consequences.
+Privacy:
+Maintaining privacy is a significant challenge in big data analytics due to the large volumes of data involved. Issues can arise regarding who has access to the data, as well as concerns about the sharing of sensitive and personal information.
+Scalability:
+Dealing with large datasets is a major concern in big data analytics. As the amount of data grows, the challenges of processing and analyzing also increases. One possible way to solve the problems of big data analytics is to make use of cloud computing. This involves storing and analyzing data on remote servers, which eases the management of large amounts of data and eliminates the need for significant investments in hardware and infrastructure
+Integration of data from different sources:Data can be generated from a variety of sources, such as social media pages, customer logs, financial data, emails, and staff reports. Integrating all of this data and managing can be a challenging task.Ensuring a seamless data integration process is important for effective analysis.
+Source:Slides and https://www.simplilearn.com/challenges-of-big-data-article
 
-## Types of Big data
 
-There are three categories of big data. They are:
 
-1. Structured: The term "structured data" refers to any data that can be accessed, stored, and processed in a specific format. One example of "structured" data is data stored in a relational database management system.
 
-2. Semi-structured: Both types of data can be found in semi-structured data. Semi-structured data can appear to be structured, but it is not specified by a relational DBMS's concept of a table, for example. An XML file containing data is an example of semi-structured data.
-
-3. Unstructured: Unstructured data is defined as any data with an undetermined shape or structure. Unstructured data has a number of processing issues that make it difficult to extract value from it, in addition to its enormous bulk. A heterogeneous data source that combines simple text files with photos, movies, and other types of data is a common example of unstructured data.
-
-## The 6 V's of BIGDATA
-
-1.Volume: A large amount of data is called volume. The volume of the data is a very important factor in determining its value. The term "Big Data" is really used to explain the data that is extremely huge in volume. This means that the amount of data will determine whether or not a given set of data may be called big data.
-
-2.Velocity: Velocity describes the high rate of data collection. Data comes from a wide range of sources, including machines, networks, social media, mobile phones, etc., in big data velocity. A significant and constant flow of data is generated. The speed at which data is generated and processed to satisfy demands determines the data's potential. For instance, Google receives more than 3.5 billion queries per day. Additionally, the number of Facebook users is rising by approximately 22% yearly.
-
-3.Variety: It refers to the type of data and the various sources of data. The emergence of data from fresh sources, both inside and outside of a company, is essentially what is meant by variety. It can be organized, partially organized, or unorganized.
-
-4.Veracity: It relates to data redundancy and ambiguity; that is, easily available data can occasionally become disorganized, and quality and accuracy are challenging to manage. As an instance, additional data could cause confusion, whereas less information could only convey partial or incorrect information.
-
-5.Value: The bulk of information that has no value is useless to the firm until it can be made valuable. Data by itself is useless and unimportant; information must be extracted from it by transforming it into something worthwhile. Therefore, we might say that value is the most significant of the six V's.
-
-6.Variability: Data that is constantly changing is referred to as variability. Understanding and correctly interpreting the significance of raw data are the main areas of variation.
-
-# Challenges in Big data Analytics
-
-## Sharing and Accessing data
-
-Accessing data from open sources causes many problems. If data from the company's information system is used to make fast, accurate decisions, then the data should be available in an accurate, full, and timely manner.
-
-## Security
-
-Security breaches are more likely when there is more data and when such data is less organized. The likelihood for security breakdowns increases as your organization expands, you add more tools to your software stack, and you implement new technologies to make sense of your data.
-
-## Potential Risk Factors
-
-- Fake data generation: You might be collecting false (and so invalid and perhaps damaging) data if you're randomly collecting information from various sources. Any analysis you draw from false or inaccurate data will be tainted.
-- Unprotected data resources: Gathering data from unprotected channels that aren't secure makes your systems more vulnerable to external attacks.
-
-## Data Silos
-
-A significant issue that might arise when working with big data is data silos. You have data silos if all of your data is kept in different databases that don't exchange information with one another. This means that your teams aren't all examining the same data, but rather, they each have access to a portion of it that is incomplete. Poor execution can result if your teams can only see a piece of the data; this could cause a lack of alignment between your marketing and sales teams or incorrect interpretation of a customer's wants by your customer care department.
-
-## Scalability
-
-Big data projects can expand and change quickly, creating difficulties such as how to manage and carry out numerous tasks so that each workload's objectives can be met affordably.
-
-## Integration of Data from Different Sources
-
-Data is obtained from many different sources in a business, including social media pages, ERP software, customer logs, financial data, emails, presentations, and reports written by staff. Integrating all of this data to create reports is a difficult undertaking that companies often neglect. However, perfect data integration is required for analysis, reporting, and business intelligence.
 
