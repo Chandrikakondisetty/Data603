@@ -7,7 +7,7 @@ There are three categories of big data. They are
 The data which can be accessed in a specific format like tables is called as “structured data”. It is very easy to store, process and analyze and it is in readable format.
 Example: The data we generally store in the form of tables by sql queries is one of the best example of structured data as we can read and write the tables easily.
 ## Semi structured:
-Semi structured is the combination of both structured and un structures data. Semi-structured data is stored in text-based formats like XML, JSON, and CSV,
+Semi structured is the combination of both structured and un structured data. Semi-structured data is stored in text-based formats like XML, JSON, and CSV,
 ## Unstrcutured:
 Unstructured data is defined as any data with an uneven shape or structure. It is very difficult to extract data from unstructured data. There are various kind of unstructured data such as images, videos, audio files, text documents.
 Source: Slides
@@ -32,9 +32,9 @@ Firstly, we have to identify the source of data.Once the source of the data has 
 ## Information extraction and cleaning : 
 During the process of data filtering, some data entries may be incompatible. In this phase, the data entries that do not fit  with the underlying scope of analysis are extracted and transformed. Data cleaning involves filling in missing values and correcting data inconsistencies.
 ## Data integration, aggregation and representation:
-Data integration and aggregation simply involves combining data from several data stores in order to  avoid duplications and inconsistencies  Representation means visualizing   the data in many ways  , including bar charts, histograms, boxplots, and pie charts.
+Data integration and aggregation simply involves combining data from several data stores in order to  avoid duplications and inconsistencies  Representation means visualizing the data in many ways,including bar charts, histograms, boxplots, and pie charts.
 ## Query processing, Data modelling and Analysis:
-A data model is a conceptual representation that arranges data objects and defines their. Meaningful information is obtained through queries. However, analyzing data that are not stored in SQL databases can be difficult through SQL queries, which presents a challenge in performing different analysis tasks
+A data model is a conceptual representation that arranges data objects and defines how they relate to each other. Meaningful information is obtained through queries. However, analyzing data that are not stored in SQL databases can be difficult through SQL queries, which presents a challenge in performing different analysis tasks
 ## Interpretation: 
 Interpretation is the final phase in the big data analytics process. This phase involves verifying results produced by the data analysis and verifying their accuracy.
 Sources: Slides and https://www.geeksforgeeks.org/big-data-analytics-life-cycle/
@@ -47,7 +47,7 @@ Security problems are more  when there is more data. When such data is less orga
 ## Privacy:
 Maintaining privacy is a significant challenge in big data analytics due to the large volumes of data involved. Issues can arise regarding who has access to the data, as well as concerns about the sharing of sensitive and personal information.
 ## Scalability:
-Dealing with large datasets is a major concern in big data analytics. As the amount of data grows, the challenges of processing and analyzing also increases. One possible way to solve the problems of big data analytics is to make use of cloud computing. This involves storing and analyzing data on remote servers, which eases the management of large amounts of data and eliminates the need for significant investments in hardware and infrastructure
+Dealing with large datasets is a major concern in big data analytics. As the amount of data grows, the challenges of processing and analyzing also increases. One possible way to solve the problems of big data analytics is to make use of cloud computing. This involves storing and analyzing data on remote servers, which eases the management of large amounts of data and eliminates the investments in hardware and infrastructure
 ## Integration of data from different sources:
 Data can be generated from a variety of sources, such as social media pages, customer logs, financial data, emails, and staff reports. Integrating all of this data and managing can be a challenging task.Ensuring a seamless data integration process is important for effective analysis.
 Source:Slides and https://www.simplilearn.com/challenges-of-big-data-article
