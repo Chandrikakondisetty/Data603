@@ -1,7 +1,7 @@
 # Big data with examples and files.
 Big Data is a collection of data that is extremely large which increases over time.
 Social media is one of the best example of big data . Facebook posts and Instagram posts, blogs, comments ,transactions data from banks, all come under bigdata.
-Types of Big  data:
+#Types of Big  data:
 There are three categories of big data. They are 
 ##Structured:
 The data which can be accessed in a specific format like tables is called as “structured data”. It is very easy to store, process and analyze and it is in readable format.
@@ -27,8 +27,8 @@ Value refers to usefulness of data . Converting raw data to something valuable i
 Source : slides and https://www.geeksforgeeks.org/5-vs-of-big-data/
 #Phases of Big data Analytics:
 There are 5 phases in big data analysis:
-## Data acquisition and recording: Firstly, we have to identify the source of data.Once the source of the data has been identified, the data should be gathered from the sources.Since the data  we collected is unstructured, it needs to be filtered to eliminate corrupted or irrelevant data. After the filtering process, a duplicate of the data is stored for future purposes.
-## Information extraction and cleaning : During the process of data filtering, some data entries may be incompatible. In this phase, the data entries that do not fit  with the underlying scope of analysis are extracted and transformed. Data cleaning involves filling in missing values and correcting data inconsistencies.
+##Data acquisition and recording: Firstly, we have to identify the source of data.Once the source of the data has been identified, the data should be gathered from the sources.Since the data  we collected is unstructured, it needs to be filtered to eliminate corrupted or irrelevant data. After the filtering process, a duplicate of the data is stored for future purposes.
+##Information extraction and cleaning : During the process of data filtering, some data entries may be incompatible. In this phase, the data entries that do not fit  with the underlying scope of analysis are extracted and transformed. Data cleaning involves filling in missing values and correcting data inconsistencies.
 ##Data integration, aggregation and representation: Data integration and aggregation simply involves combining data from several data stores in order to  avoid duplications and inconsistencies  Representation means visualizing   the data in many ways  , including bar charts, histograms, boxplots, and pie charts.
 ##Query processing, Data modelling and Analysis: A data model is a conceptual representation that arranges data objects and defines their. Meaningful information is obtained through queries. However, analyzing data that are not stored in SQL databases can be difficult through SQL queries, which presents a challenge in performing different analysis tasks
 ##Interpretation: Interpretation is the final phase in the big data analytics process. This phase involves verifying results produced by the data analysis and verifying their accuracy.
