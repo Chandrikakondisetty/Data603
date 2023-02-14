@@ -37,6 +37,7 @@ Data integration and aggregation simply involves combining data from several dat
 A data model is a conceptual representation that arranges data objects and defines their. Meaningful information is obtained through queries. However, analyzing data that are not stored in SQL databases can be difficult through SQL queries, which presents a challenge in performing different analysis tasks
 ## Interpretation: 
 Interpretation is the final phase in the big data analytics process. This phase involves verifying results produced by the data analysis and verifying their accuracy.
+Sources: Slides and https://www.geeksforgeeks.org/big-data-analytics-life-cycle/
 
 # Challenges in  Big data Analytics:
 ## Accessing data and Heterogeneity:
@@ -47,7 +48,8 @@ Security problems are more  when there is more data. When such data is less orga
 Maintaining privacy is a significant challenge in big data analytics due to the large volumes of data involved. Issues can arise regarding who has access to the data, as well as concerns about the sharing of sensitive and personal information.
 ## Scalability:
 Dealing with large datasets is a major concern in big data analytics. As the amount of data grows, the challenges of processing and analyzing also increases. One possible way to solve the problems of big data analytics is to make use of cloud computing. This involves storing and analyzing data on remote servers, which eases the management of large amounts of data and eliminates the need for significant investments in hardware and infrastructure
-## Integration of data from different sources:Data can be generated from a variety of sources, such as social media pages, customer logs, financial data, emails, and staff reports. Integrating all of this data and managing can be a challenging task.Ensuring a seamless data integration process is important for effective analysis.
+## Integration of data from different sources:
+Data can be generated from a variety of sources, such as social media pages, customer logs, financial data, emails, and staff reports. Integrating all of this data and managing can be a challenging task.Ensuring a seamless data integration process is important for effective analysis.
 Source:Slides and https://www.simplilearn.com/challenges-of-big-data-article
 
 
