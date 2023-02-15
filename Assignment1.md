@@ -24,6 +24,7 @@ This refers to the quality and accuracy of the data, and the challenges associat
 This tells how fast a data format can be changed from one to another and how the data will be managed in unpredictable data formats.
 ## Value:
 Value refers to usefulness of data . Converting raw data to something valuable is defined as its “Value”. The vast amount of data without any value is useless to the company unless it is transformed into something beneficial.
+
 Source : slides and https://www.geeksforgeeks.org/5-vs-of-big-data/
 # Phases of Big data Analytics:
 There are 5 phases in big data analysis:
@@ -50,6 +51,7 @@ Maintaining privacy is a significant challenge in big data analytics due to the 
 Dealing with large datasets is a major concern in big data analytics. As the amount of data grows, the challenges of processing and analyzing also increases. One possible way to solve the problems of big data analytics is to make use of cloud computing. This involves storing and analyzing data on remote servers, which eases the management of large amounts of data and eliminates the investments in hardware and infrastructure
 ## Integration of data from different sources:
 Data can be generated from a variety of sources, such as social media pages, customer logs, financial data, emails, and staff reports. Integrating all of this data and managing can be a challenging task.Ensuring a seamless data integration process is important for effective analysis.
+
 Source:Slides and https://www.simplilearn.com/challenges-of-big-data-article
 
 
