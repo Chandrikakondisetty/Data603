@@ -39,6 +39,7 @@ Data integration and aggregation simply involves combining data from several dat
 A data model is a conceptual representation that arranges data objects and defines how they relate to each other. Meaningful information is obtained through queries. However, analyzing data that are not stored in SQL databases can be difficult through SQL queries, which presents a challenge in performing different analysis tasks
 ## Interpretation: 
 Interpretation is the final phase in the big data analytics process. This phase involves verifying results produced by the data analysis and verifying their accuracy.
+
 Sources: Slides and https://www.geeksforgeeks.org/big-data-analytics-life-cycle/
 
 # Challenges in  Big data Analytics:
