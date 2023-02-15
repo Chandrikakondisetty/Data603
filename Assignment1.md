@@ -10,6 +10,7 @@ Example: The data we generally store in the form of tables by sql queries is one
 Semi structured is the combination of both structured and un structured data. Semi-structured data is stored in text-based formats like XML, JSON, and CSV,
 ## Unstrcutured:
 Unstructured data is defined as any data with an uneven shape or structure. It is very difficult to extract data from unstructured data. There are various kind of unstructured data such as images, videos, audio files, text documents.
+
 Source: Slides
 # 6 V’s of BIGDATA:
 ## Volume:
