@@ -44,7 +44,7 @@ Sources: Slides and https://www.geeksforgeeks.org/big-data-analytics-life-cycle/
 
 # Challenges in  Big data Analytics:
 ## Accessing data and Heterogeneity:
-As we have heterogenous data i.e data which is different in format, structure and meaning. This data will result in missing data ,faulty errors and which inturn decrease the data quality , lead to incorrect  conclusions and poor decision making.
+As huge amount of data are being generated, captured, and stored, accessing and utilizing that data can be challenging.Coming to heterogenous data  which means     data which is different in format, structure and meaning. This data will result in missing data ,faulty errors and which inturn decrease the data quality , lead to incorrect  conclusions and poor decision making.
 ## Security:
 Security problems are more  when there is more data. When such data is less organized, the issue is made worse. Big data analytics involves the storage and processing of vast amounts of data, including sensitive information such as personal data and financial information. Security challenges can arise due to various factors, such as weak authentication and access control mechanisms, as well as cyber attacks. These security issues can lead to the loss of confidential information and have significant negative consequences.
 ## Privacy:
